@@ -31,7 +31,7 @@ header{
 
 main{
     width: 100%;
-    height: 500px;
+    height: 700px;
     margin-top: 30px;
     background-color: #0086ff;
 }
@@ -49,13 +49,13 @@ main{
 
 .floater{
     float: left;
-    height: 350px;
+    height: 560px;
     margin-bottom: 30px;
 }
 
 .floater-opp{
     float: right;
-    height: 350px;
+    height: 560px;
     margin-bottom: 30px;
 }
 
@@ -65,11 +65,11 @@ aside{
 }
 
 section{
-    width: 600px;
+    width: 640px;
     background-color: #abcfe7;
     margin: auto;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 footer{
